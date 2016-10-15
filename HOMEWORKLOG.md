@@ -19,4 +19,11 @@ koan 11: Had to research Array.pop - it returns the last value in an Array after
 koan 12: Also had to look up Array.shift - the same as pop but the first instead of the last. Array.unshift adds a value to the first element of the array.
 
 Thinking About Functions:
-koan 13:
+
+koan 13-15: Nothing to note.
+
+koan 16: This one is hard to wrap my head around. Not sure how to look up an explanation for this syntax either. **Would love an explanation of this one!** I was able to finish the test and I see how the numbers add up, but an explanation of how the function actually works would be great.
+
+koan 17: Nothing to note.
+
+koan 18: I understand what is happening with praiseSinger and appendRules. The syntax of defining a variable with { function: method } is new and I would like a little more explanation. givePraise is not asking for any parameters, but it's using the parameter its given as the parameter for its method. Interesting..
