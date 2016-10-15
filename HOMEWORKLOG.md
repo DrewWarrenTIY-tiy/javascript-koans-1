@@ -9,4 +9,14 @@ koan 6: When you have a () after an array number ...denotes? that at the index i
 object["key"]: same as object.key.
 
 koan 7-8: Nothing to note
+
 koan 9: If you pass in the same index for both params of the array.slice() method, you'll get an empty array. Also, if you pass a higher index in the first param and a lower index in the second, you'll get an empty array. The second param/index in the array.slice method is NOT kept in the slice.
+
+koan 10: Nothing to note.
+
+koan 11: Had to research Array.pop - it returns the last value in an Array after removing it from the Array.
+
+koan 12: Also had to look up Array.shift - the same as pop but the first instead of the last. Array.unshift adds a value to the first element of the array.
+
+Thinking About Functions:
+koan 13:
