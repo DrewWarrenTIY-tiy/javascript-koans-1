@@ -73,3 +73,9 @@ koan 36-37: **OMFG Venture Bros reference! Love it!!!** "The in operator returns
 koan 38: Easy peasy
 
 koan 39: **Is prototype just for functions (like methods)? or for all object property possibilities?**
+
+Thinking About Inheritance:
+
+koan 40-43: Makes sense. Reading Crockford's article on Prototypal Inheritance was very interesting. I don't grasp it well enough to implement it, but am starting to understand objects creating instances of themselves. **Would like an example, though.**
+
+koan 44-47: First try. Not sure the difference between this.gonzo.DoTrick() and this.gonzo.trick .. I guess one is a function that returns the value and the other is just the value itself.
