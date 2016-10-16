@@ -36,4 +36,6 @@ koan 20: Starting to get confused between the something.something syntax. Someti
 
 koan 21: Made sense to me!
 
-koan 22: 
+koan 22: Learned that you can't change the properties of a Constructor once they are defined. If you change the properties and then remake the constructor they will be changed.
+
+Thinking About Higher Order Functions:
