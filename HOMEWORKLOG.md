@@ -32,7 +32,7 @@ Thinking About Mutability:
 
 koan 19: Pretty straightforward.
 
-koan 20: Starting to get confused between the something.something syntax. Sometimes it's a method... but I think the same syntax is used to refer to Object Properties... so .firstname is not a method of the Person Constructor but is referencing the object property of aPerson? I think?
+koan 20: **Starting to get confused between the something.something syntax. Sometimes it's a method... but I think the same syntax is used to refer to Object Properties... so .firstname is not a method of the Person Constructor but is referencing the object property of aPerson? I think?**
 
 koan 21: Made sense to me!
 
@@ -57,4 +57,19 @@ I'm not sure why the array ends 1 before the number named for the end. **Also no
 
 koan 30: flatten "Flattens a nested array (the nesting can be to any depth). If you pass shallow, the array will only be flattened a single level." **These ones don't have a space before the first value... what gives?**
 
-koan 31: "Calling chain will cause all future method calls to return wrapped objects. When you've finished the computation, call value to retrieve the final value." First the array is flattened to be easy to deal with, then map adds 1 to each value, then reduce adds them all together.
+koan 31: "Calling chain will cause all future method calls to return wrapped objects. When you've finished the computation, call value to retrieve the final value."
+First the array is flattened to be easy to deal with, then map adds 1 to each value, then reduce adds them all together.
+
+Thinking about Objects:
+
+koan 32-33: Easy Enough
+
+koan 34: **Properties that are functions act like methods** This again confuses me.. I guess that you reference object functions and object non-functions the same way... I got the answer on the first try but the syntax is confusing because I feel like I've seen an object property that is a function referenced without parameters... Maybe I'm just confused.
+
+koan 35: "When a function is attached to an object, 'this' refers to the object." What a great way to describe that concept. I was trying to explain that but couldn't find the words. Great stuff!
+
+koan 36-37: **OMFG Venture Bros reference! Love it!!!** "The in operator returns true if the specified property is in the specified object"
+
+koan 38: Easy peasy
+
+koan 39: **Is prototype just for functions (like methods)? or for all object property possibilities?**
