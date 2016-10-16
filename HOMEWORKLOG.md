@@ -27,3 +27,13 @@ koan 16: This one is hard to wrap my head around. Not sure how to look up an exp
 koan 17: Nothing to note.
 
 koan 18: I understand what is happening with praiseSinger and appendRules. The syntax of defining a variable with { function: method } is new and I would like a little more explanation. givePraise is not asking for any parameters, but it's using the parameter its given as the parameter for its method. Interesting..
+
+Thinking About Mutability:
+
+koan 19: Pretty straightforward.
+
+koan 20: Starting to get confused between the something.something syntax. Sometimes it's a method... but I think the same syntax is used to refer to Object Properties... so .firstname is not a method of the Person Constructor but is referencing the object property of aPerson? I think?
+
+koan 21: Made sense to me!
+
+koan 22: 
