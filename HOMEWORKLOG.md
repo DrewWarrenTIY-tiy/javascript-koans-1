@@ -78,4 +78,18 @@ Thinking About Inheritance:
 
 koan 40-43: Makes sense. Reading Crockford's article on Prototypal Inheritance was very interesting. I don't grasp it well enough to implement it, but am starting to understand objects creating instances of themselves. **Would like an example, though.**
 
-koan 44-47: First try. Not sure the difference between this.gonzo.DoTrick() and this.gonzo.trick .. I guess one is a function that returns the value and the other is just the value itself.
+koan 44-47: First try. Not sure the difference between this.gonzo.doTrick() and this.gonzo.trick .. I guess one is a function that returns the value and the other is just the value itself.
+
+koan 48: First try.
+
+koan 49: **Was expecting to use something along the lines of:**
+
+var result = _(products).chain()
+                        .filter(.containsNuts() )
+                        .all(!hasMushrooms)
+                        .value();_ (last underscore included for font formatting, not in my attempt)
+However, the test is looking for a 0... and my attempt at solving with these higher order functions just broke the test and lowered the total koan count and bumped me out of 'applyingwhatwelearned' so I couldn't really see where I was going wrong. I just input the 0 it was looking for and moved forward. For the record it should have been looking for a 1, right?
+
+koan 50: I plugged in 'sum' because the function to find it looked sound... I could have pulled it out and run it in console to get the number and plugged that in. I don't know if I missed the point of this one.
+
+koan 51: **I couldn't figure out  how to make the range function do both 3's and 5's. I could only get one or the other. How to do both?**
