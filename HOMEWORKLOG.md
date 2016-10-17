@@ -93,3 +93,6 @@ However, the test is looking for a 0... and my attempt at solving with these hig
 koan 50: I plugged in 'sum' because the function to find it looked sound... I could have pulled it out and run it in console to get the number and plugged that in. I don't know if I missed the point of this one.
 
 koan 51: **I couldn't figure out  how to make the range function do both 3's and 5's. I could only get one or the other. How to do both?**
+
+koan 52-53:
+Could not figure out syntactically how to write the higher order functions to decipher through the products object.

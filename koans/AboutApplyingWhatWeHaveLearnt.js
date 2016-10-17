@@ -61,7 +61,8 @@ describe("About Applying What We Have Learnt", function() {
 
     var sum = _(1000).chain()
                      .range(1000, 3)
-                     .reduce(function (memo, x) { return memo + x}, 0);    /* try chaining range() and reduce() */
+                     .reduce(function (memo, x) { return memo + x}, 0)
+                     value();    /* try chaining range() and reduce() */
 
     expect(233168).toBe(233168);
   });
